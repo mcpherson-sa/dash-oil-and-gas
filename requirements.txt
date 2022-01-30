@@ -1,0 +1,11 @@
+requests
+flask
+flask-assets
+flask_appbuilder
+numpy==1.19.3
+plotly
+pandas
+dash
+sqlalchemy
+pyodbc
+#gunicorn
